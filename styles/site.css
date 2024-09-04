@@ -1,4 +1,9 @@
 body {
-  background-color: #ffffff;
+  background-color: #00ff00;
   color: #000000;
+}
+
+li {
+  font-family: monospace;
+  font-size: 15pt;
 }
